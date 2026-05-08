@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>RC Sindicate</title>
+
+  <style>
+    body {
+      margin: 0;
+      background: black;
+      color: white;
+      font-family: Arial, sans-serif;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+    }
+
+    h1 {
+      font-size: 64px;
+      letter-spacing: 8px;
+      margin: 0;
+    }
+
+    p {
+      color: #aaa;
+      max-width: 500px;
+      margin-top: 12px;
+      line-height: 1.5;
+    }
+
+    button {
+      margin-top: 25px;
+      padding: 12px 24px;
+      border: none;
+      background: white;
+      color: black;
+      font-weight: bold;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background: #ddd;
+    }
+  </style>
+</head>
+
+<body>
+
+  <h1>RC SINDICATE</h1>
+
+  <p>
+    A collective built on sound, emotion, and underground energy.
+  </p>
+
+  <button>Enter the Sound</button>
+
+</body>
+</html>
